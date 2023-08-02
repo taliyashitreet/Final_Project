@@ -1,11 +1,17 @@
 # Final_Project
-Antibiotic resistance is a pressing global health issue resulting from bacteria's development and the misuse of antimicrobial substances, posing significant challenges to public health.
+Antibiotic resistance is a critical global health concern resulting from bacteria development and antimicrobial misuse. It poses significant challenges to public health, as resistant bacteria evade treatment, leading to persistent infections. We aim to determine the likelihood of bacterial resistance to specific drugs by assessing gene resistance probabilities.
 
-In bacterial infections, antibiotic resistance can lead to treatment failure and complications. Genes in the bacterial genome play a vital role in conferring drug resistance. Knowing the resistance potential of these genes can help assess a bacterial strain's susceptibility to a specific drug.
+Our research goal is to classify gene resistance levels to antibiotics. Existing databases partially categorize resistance of bacteria to specific antibiotics and resistance of genes to antibiotic families. To achieve our objective, we used both supervised and unsupervised machine learning methods.
 
-Our research aims to classify gene resistance levels to antibiotics. Existing databases provide partial information, and we'll use machine learning and deep learning tools in a supervised approach.
+Initially, we explored the relationship between bacteria and genes using the unsupervised bicluster model. However, it didn't directly contribute to our research goal. Subsequently, we shifted to a supervised approach, utilizing a logical model instead of MLP network. This model provided coherent and interpretable results for classifying gene resistance based on diverse datasets.
 
-The unsupervised bicluster model, although successful in grouping bacteria, didn't contribute to our research goal. The supervised approach with an MLP network using Relu and sigmoid functions showed promise. We trained 114 models, each specific to a drug. However, the task's variation between training and testing posed challenges. The model's classification provides a probability value indicating gene resistance or sensitivity to the drug.
+During training, we built 114 logical models for specific drugs, considering various factors such as gene presence and its relevance to antibiotic families. The logical model effectively determined gene resistance probabilities, enabling better antibiotic resistance classification based on the given data.
+
+
+
+
+
+
 
 
 
