@@ -11,4 +11,4 @@ The unsupervised bicluster model, although successful in grouping bacteria, didn
 
 
 
-Note: The code is in: Create_data_Final notebook, the csv files for runing the noteboook is in "
+Note: The code is in: "Create_data_Final" notebook, the csv files for runing the noteboook is in "CSV Files.zip"
