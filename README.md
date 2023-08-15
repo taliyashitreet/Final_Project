@@ -1,5 +1,5 @@
 # Final_Project
-### academic Paper you can find as: Gene_resistance_Antibiotics 
+### academic Paper you can find as: Gene_resistance_Antibiotics.pdf
 
 Antibiotic resistance is a critical global health concern resulting from bacteria development and antimicrobial misuse. It poses significant challenges to public health, as resistant bacteria evade treatment, leading to persistent infections. We aim to determine the likelihood of bacterial resistance to specific drugs by assessing gene resistance probabilities.
 
