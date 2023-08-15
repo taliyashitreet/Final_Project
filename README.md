@@ -1,4 +1,6 @@
 # Final_Project
+### academic Paper you can find as: Gene_resistance_Antibiotics 
+
 Antibiotic resistance is a critical global health concern resulting from bacteria development and antimicrobial misuse. It poses significant challenges to public health, as resistant bacteria evade treatment, leading to persistent infections. We aim to determine the likelihood of bacterial resistance to specific drugs by assessing gene resistance probabilities.
 
 Our research goal is to classify gene resistance levels to antibiotics. Existing databases partially categorize resistance of bacteria to specific antibiotics and resistance of genes to antibiotic families. To achieve our objective, we used both supervised and unsupervised machine learning methods.
